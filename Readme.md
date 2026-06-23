@@ -680,6 +680,8 @@ app.py / demo.py
 
 ---
 
+# Project Live URL:- http://3.93.11.166:5000/
+
 # 👨‍💻 Author
 
 **Prashant Kumar**
